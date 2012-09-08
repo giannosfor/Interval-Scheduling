@@ -21,3 +21,6 @@ Monday 9 P.M.-Monday 1I P.M..
 Then the smallest complete supervising committee would consist of just
 the second student, since the second shift overlaps both the first and the
 third.
+
+
+Algorithm Design by Jon Kleinberg and Éva Tardos
