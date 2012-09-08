@@ -14,10 +14,15 @@ observed by at least one person who’s serving on the committee.
 Give an efficient algorithm that takes the schedule of n shifts and
 produces a complete supervising committee containing as few students
 as possible.
+
 Example. Suppose n = 3, and the shifts are
+
 Monday 4 p.M.-Monday 8 P.M.,
+
 Monday 6 p.M.-Monday 10 P.M.,
+
 Monday 9 P.M.-Monday 1I P.M..
+
 Then the smallest complete supervising committee would consist of just
 the second student, since the second shift overlaps both the first and the
 third.
